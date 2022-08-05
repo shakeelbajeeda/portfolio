@@ -12,13 +12,16 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,800">
     <link href="assets/fonts/font-awesome.min.css" rel="stylesheet" />
-    <link rel="icon" href="https://previews.customer.envatousercontent.com/files/361333503/preview/images/favicon.jpg" />
+    <link rel="icon"
+        href="https://previews.customer.envatousercontent.com/files/361333503/preview/images/favicon.jpg" />
     <link href="assets/fonts/themify-icons.css" rel="stylesheet" />
     <link href="assets/fonts/etline.css" rel="stylesheet" />
     <link href="assets/css/plugins.css" rel="stylesheet" />
     <link href="assets/css/lightbox.min.css" rel="stylesheet" />
     <link href="assets/css/responsive.css" rel="stylesheet" />
     <link href="assets/css/style.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -26,9 +29,11 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
+
 <body data-spy="scroll" data-offset="80">
-@include('include.header')
-@yield('content')
-@include('include.footer')
+    @include('include.header')
+    @yield('content')
+    @include('include.footer')
 </body>
+
 </html>
