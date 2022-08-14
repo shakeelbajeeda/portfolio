@@ -16,7 +16,7 @@ class HomeController extends Controller
             $mail_data['name'] = $request->name;
             $mail_data['email_user'] = $request->usermail;
             $mail_data['msg'] = $request->message;
-            $mail_data['email'] = "meharshakeel9114@gmail.com";
+            $mail_data['email'] = "waheedbajeed@gmail.com";
             Mail::send('mail.send_email', $mail_data, function ($message) use ($mail_data) {
                 $message->to($mail_data['email'])->subject('Portfolio Contact Us Form Submission');
             });

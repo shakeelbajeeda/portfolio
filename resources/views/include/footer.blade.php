@@ -3,7 +3,7 @@
 <div class="footer">
     <div class="container">
         <div class="copy-text text-center">
-            <p>Copyright © 2021 Code-Genie | All Rights Reserved</p>
+            <p>Copyright &copy; <?php echo date("Y"); ?> | All Rights Reserved</p>
         </div>
     </div>
 </div>

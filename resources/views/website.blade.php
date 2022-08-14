@@ -42,11 +42,43 @@
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="about_content_area wow fadeInRight">
                         <h4>Hello, I am <span>Abdul Waheed</span></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus est,
-                            finibus ut congue sed, faucibus ut dui. Sed congue nisl dolor, id dapibus leo
-                            elementum posuere. Ut aliquam metus quis laoreet elementum. In hac habitasse platea
-                            dictumst.
-                            In hac habitasse platea dictumst. Aliquam porta faucibus arcu, et.
+                        <p>
+                            I am a Senior Software Engineer/Architect with over 6 years of professional experience who is passionate about cutting-edge technologies, loves to create mobile, web, and desktop apps loves to collaborate with other keen minds, and possesses tremendous skills in designing mobile apps and solving problems.
+                            I have a strong passion for the architecture, design, development, and deployment of innovative apps with great experience and am capable of solving complex problems with brilliant solutions
+                            under pressure, mentoring other developers, and even parachuting into someone else's code.
+                            My core skills:
+                            <ul>
+                                <li>
+                                   Modern JavaScript framework(Vue, React, Node, Nuxt.js, jQuery)
+                                </li>
+                                <li>
+                                     Experience with Quasar VueJs for cross-platform
+                                </li>
+                                <li>
+                                    Develop and maintain APIs using PHP, PHP Laravel, Web API
+                                </li>
+                                <li>
+                                    Develop database and web application using PHP, Laravel, Codeigniter
+                                </li>
+                                <li>
+                                    Experience with SQL (MySQL, PostgreSQL, Oracle)
+                                </li>
+                                <li>
+                                    Experience with agile development methodology
+                                </li>
+                                <li>
+                                    RESTful backend API interaction / Networking
+                                </li>
+                                <li>
+                                    MVC Architecture
+                                </li>
+                                <li>
+                                    Git, Github, JIRA, Trello, Bitbucket, Distributed Version Control
+                                </li>
+                                <li>
+                                    Experience with Docker & Kubernetes and Shell Scripting.
+                                </li>
+                            </ul>
                         </p>
                         <div class="about_details">
                             <div class="row">
@@ -117,24 +149,24 @@
             </div> <!-- End Col -->
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="single-service wow fadeInDown">
-                    <i class="fa fa-leaf fa-lg"></i>
-                    <h4>Animation Making</h4>
+                    <i class="fa fa-android fa-lg"></i>
+                    <h4>Android Applications</h4>
                     <P>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet suscipit<br />
                         orci. Pellentesque eleifend.</P>
                 </div>
             </div> <!-- End Col -->
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="single-service wow fadeInRight">
-                    <i class="fa fa-video-camera fa-lg"></i>
-                    <h4>Video Editing</h4>
+                    <i class="fa fa-apple  fa-lg"></i>
+                    <h4>IOS Applications</h4>
                     <P>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet suscipit<br />
                         orci. Pellentesque eleifend.</P>
                 </div>
             </div> <!-- End Col -->
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="single-service wow fadeInLeft">
-                    <i class="fa fa-briefcase fa-lg"></i>
-                    <h4>User Experience</h4>
+                    <i class="fa fa-desktop  fa-lg"></i>
+                    <h4>Desktop Applications</h4>
                     <P>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet suscipit<br />
                         orci. Pellentesque eleifend.</P>
                 </div>
@@ -167,7 +199,7 @@
             <div class="col-lg-12 text-center">
                 <div class="cta_content">
                     <h3>I Am Available For Freelancer !</h3>
-                    <a href="#" class="btn btn-default main_btn"><span>Hire Me</span></a>
+                    <a href="#contact" class="btn btn-default main_btn"><span>Hire Me</span></a>
                 </div>
             </div>
         </div>
